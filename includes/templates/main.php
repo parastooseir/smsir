@@ -51,8 +51,8 @@ if ((isset($_POST["deactivate"])) && ($_POST["deactivate"])) {
 ?>
 <div class="sms-ir-header-div">
     <h1>
-        <img width="100px" src="<?= plugin_dir_url(__FILE__) . 'assets/img/logo.png' ?>">
-        ماژول پیامکی ایده پردازان
+        <img width="100px" src="<?= plugin_dir_url(__FILE__) . 'assets/img/logo.svg' ?>">
+        ماژول پیامکی sms.ir
     </h1>
 </div>
 <div class="sms-ir-main-div">
@@ -126,13 +126,13 @@ if ((isset($_POST["deactivate"])) && ($_POST["deactivate"])) {
         <tbody>
         <tr>
             <td class="sms-ir-main-footer-text">
-                <p>تهران، شهرک غرب، بلوار دادمان، خیابان بهارستان، نبش گلبرگ چهارم، پلاک16، کدپستی: 1468833747، تلفن
-                    تماس: 0212853 و 02127684000، ایمیل: info@sms.ir</p>
+                <p>تهران، خیابان آزادی، ناحیه نوآوری شریف، بلوار اکبری، ابتدای کوچه اتکا (ناهید)، پلاک۷، برج فناوری، طبقه پنجم، شرکت sms.ir شماره تماس :021-2853</p>
+
             </td>
         </tr>
         <tr>
             <td class="sms-ir-main-footer-text">
-                <p>"© تمامی حقوق این محصول متعلق به شرکت ایده پردازان و سایت SMS.ir است."</p>
+                <p>"© تمامی حقوق این محصول متعلق به سامانه پیامکی SMS.ir است."</p>
             </td>
         </tr>
         </tbody>

@@ -83,4 +83,10 @@ function SMSIRAppAdminPromotion()
     include dirname(__FILE__) . '/templates/promotion.php';
 }
 
-
+/**
+ * @return void
+ */
+function SMSIRAppAdminashes()
+{
+	include dirname(__FILE__) . '/templates/ashes.php';
+}
